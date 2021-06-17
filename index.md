@@ -1,9 +1,9 @@
 ﻿# Project Name/Title Goes Here
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
-| **Max** | **Cupertino High School** | **Computer Science** | **Incoming Senior** |
+| **Engineer** | **School** | **Area of interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Max | Cupertino High School | Computer Science | Incoming Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
