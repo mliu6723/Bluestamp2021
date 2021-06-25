@@ -20,4 +20,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
   
 For the first week, I needed to not only get an understanding of arduino and the hardware but also start on the software of the project. The machine learning aspect of the project is definitely the most difficult and this week, I have essentially finished training my model. The biggest challenge in doing this is likely finding usable data sets that were most effective in training the model. Often they were either too big or too small and finding one that worked effectively was not easy. However, I ultimately settled on a data set and achieved the first milestone of having a working machine learning model to identify coughs. However, it does not yet identify sneezes well and will be something I need to obtain more data for. 
 
-[![First Milestone](file:///Users/maxliu/Desktop/Screen%20Shot%202021-06-25%20at%209.23.06%20AM.png)](https://www.youtube.com/watch?v=kzJgmHecD_0 "First Milestone")
+[![First Milestone](file:///Users/maxliu/Desktop/Screen%20Shot%202021-06-25%20at%209.23.06%20AM.png)(https://www.youtube.com/watch?v=kzJgmHecD_0 "First Milestone")
