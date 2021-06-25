@@ -1,5 +1,5 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Cough Detection
+This project dealt with using a machine learning model in order to accurately detect coughs and sneezes in the vicinity. Not only is this useful for the current pandemic, but it can also be applied for entertainment purposes. In this project, I modified the original design in order to activate a spray bottle whenever the model hears a sneeze in order to create a 4D viewing experinece. 
 
 | **Engineer** | **School** | **Area of interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -20,4 +20,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
   
 For the first week, I needed to not only get an understanding of arduino and the hardware but also start on the software of the project. The machine learning aspect of the project is definitely the most difficult and this week, I have essentially finished training my model. The biggest challenge in doing this is likely finding usable data sets that were most effective in training the model. Often they were either too big or too small and finding one that worked effectively was not easy. However, I ultimately settled on a data set and achieved the first milestone of having a working machine learning model to identify coughs. However, it does not yet identify sneezes well and will be something I need to obtain more data for. 
 
-[![First Milestone](https://stlpolished.com/wp-content/uploads/2016/11/Fork-and-Knife.jpg)](https://youtu.be/3e-f8iK5QLs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://www.youtube.com/watch?v=kzJgmHecD_0 "First Milestone"){:target="_blank" rel="noopener"}
