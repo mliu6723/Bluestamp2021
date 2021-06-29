@@ -8,7 +8,9 @@ This project dealt with using a machine learning model in order to accurately de
 ![Headstone Image](https://upload.wikimedia.org/wikipedia/commons/b/bc/IKB_191.jpg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My third milestone involved modifying my original project. The base of my project was simply being able to detect coughing which I had already accomplished. However, in addition, I wanted to attach the arduino to a spray bottle in order to create a 4D Movie viewing experience. For those unfamiliar with 4D, it is essentially where, for example, a character sneezes in a movie, the audience is sprayed with water as well. This modification was the hardest part of my project as my strengths lie in software and not as much hardware. Coming up with a solution using only 
+materials in my home without following a tutorial was a huge challenge and I had countless failed prototypes. One of my largest weaknesses in doing this project was that I was scared to fully commit to an idea. The idea of hot gluing or duct taping something down seemed permanent but I was scared to do so as if that idea failed, then it would be extremely difficult to take apart the project. Over the course of bluestamp, however, I became able to overcome this weakness and recognize that I had to fully commit to an idea, even if it was not perfect, to properly test it. 
+
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
