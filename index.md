@@ -6,10 +6,15 @@ This project dealt with using a machine learning model in order to accurately de
 | Max | Cupertino High School | Computer Science | Incoming Senior
 
 ![Headstone Image](https://media.giphy.com/media/Pi4ca49XzWLZGjMQt3/giphy.gif)
-  
+
+# Demo Presentation
+
 # Final Milestone
 My third milestone involved modifying my original project. The base of my project was simply being able to detect coughing which I had already accomplished. However, in addition, I wanted to attach the arduino to a spray bottle in order to create a 4D Movie viewing experience. For those unfamiliar with 4D, it is essentially where, for example, a character sneezes in a movie, the audience is sprayed with water as well. This modification was the hardest part of my project as my strengths lie in software and not as much hardware. Coming up with a solution using only 
-materials in my home without following a tutorial was a huge challenge and I had countless failed prototypes. One of my largest weaknesses in doing this project was that I was scared to fully commit to an idea. The idea of hot gluing or duct taping something down seemed permanent but I was scared to do so as if that idea failed, then it would be extremely difficult to take apart the project. Over the course of bluestamp, however, I became able to overcome this weakness and recognize that I had to fully commit to an idea, even if it was not perfect, to properly test it. 
+materials in my home without following a tutorial was a huge challenge and I had countless failed prototypes. 
+
+# Reflection
+One of my largest weaknesses in doing this project was that I was scared to fully commit to an idea. The idea of hot gluing or duct taping something down seemed permanent but I was scared to do so as if that idea failed, then it would be extremely difficult to take apart the project. Over the course of bluestamp, however, I became able to overcome this weakness and recognize that I had to fully commit to an idea, even if it was not perfect, to properly test it. 
 
 
 [![Final milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625069131/video_to_markdown/images/youtube--Wappmq4w_i0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Wappmq4w_i0 "Final milestone")
@@ -24,4 +29,4 @@ For the first week, I needed to not only get an understanding of arduino and the
 
 [![First milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624643603/video_to_markdown/images/youtube--kzJgmHecD_0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=kzJgmHecD_0 "First milestone")
 
-![Schematic](https://imgur.com/qiSreH4)
+![Schematic](https://i.imgur.com/qiSreH4.jpg)
