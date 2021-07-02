@@ -23,4 +23,5 @@ My second milestone is the application of my machine learning model to the ardui
 For the first week, I needed to not only get an understanding of arduino and the hardware but also start on the software of the project. The machine learning aspect of the project is definitely the most difficult and this week, I have essentially finished training my model. The biggest challenge in doing this is likely finding usable data sets that were most effective in training the model. Often they were either too big or too small and finding one that worked effectively was not easy. However, I ultimately settled on a data set and achieved the first milestone of having a working machine learning model to identify coughs. However, it does not yet identify sneezes well and will be something I need to obtain more data for. Click the image below to view an expalantion of this milestone!
 
 [![First milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624643603/video_to_markdown/images/youtube--kzJgmHecD_0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=kzJgmHecD_0 "First milestone")
-[![First milestone](https://imgur.com/qiSreH4)]
+
+![Schematic](https://imgur.com/qiSreH4)
