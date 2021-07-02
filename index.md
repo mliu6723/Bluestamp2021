@@ -5,7 +5,7 @@ This project dealt with using a machine learning model in order to accurately de
 |:--:|:--:|:--:|:--:|
 | Max | Cupertino High School | Computer Science | Incoming Senior
 
-![Headstone Image](https://i.imgur.com/dY20EQf.jpg)
+![Headstone Image](http://spraybottle)
   
 # Final Milestone
 My third milestone involved modifying my original project. The base of my project was simply being able to detect coughing which I had already accomplished. However, in addition, I wanted to attach the arduino to a spray bottle in order to create a 4D Movie viewing experience. For those unfamiliar with 4D, it is essentially where, for example, a character sneezes in a movie, the audience is sprayed with water as well. This modification was the hardest part of my project as my strengths lie in software and not as much hardware. Coming up with a solution using only 
